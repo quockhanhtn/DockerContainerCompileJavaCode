@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaCompiler", "JavaCompiler\JavaCompiler.csproj", "{D34627A3-2429-4B2F-B48A-45884F6D026E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34627A3-2429-4B2F-B48A-45884F6D026E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34627A3-2429-4B2F-B48A-45884F6D026E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34627A3-2429-4B2F-B48A-45884F6D026E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34627A3-2429-4B2F-B48A-45884F6D026E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DF3D8F-5073-450D-B35C-82F1BBE11C86}
+	EndGlobalSection
+EndGlobal
